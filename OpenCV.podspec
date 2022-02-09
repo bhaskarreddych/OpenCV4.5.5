@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
   s.name         = "OpenCV"
-  s.version      = "3.0.0"
-  s.summary      = "OpenCV 3.0 Framework for iOS, with coacoapod support"
+  s.version      = "4.5.5"
+  s.summary      = "OpenCV 4.5.5 Framework for iOS, with coacoapod support"
   s.homepage     = "https://github.com/bhaskarreddych/OpenCV4.5.5"
   s.description  = <<-DESC
     OpenCV 3.0, compiled for iOS
